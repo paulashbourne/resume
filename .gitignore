@@ -1,0 +1,8 @@
+# Finder Config Files #
+######################
+.DS_Store
+
+# LaTeX Temporary files #
+########################
+*.aux
+*.log
